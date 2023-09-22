@@ -7,6 +7,11 @@ export default function Exercises() {
             <nav className={styles.muscleGroup}>
                 <img className={styles.logo} src={logo} alt="Logo for Gab Gym"/>
             </nav>
+                <header className={styles.header}>
+                    <div className={styles.header__text}>
+                         Tough times never last... Only tough people last...
+                    </div>
+                </header>
         </main>
     )
 }
