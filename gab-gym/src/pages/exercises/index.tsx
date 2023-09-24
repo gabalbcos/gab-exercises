@@ -1,9 +1,9 @@
 import styles from './Exercises.module.scss';
 import logo from 'assets/vecteezy-logo.jpg'
-import SearchBar from 'pages/searchbar';
+import SearchBar from 'pages/SearchBar';
 import { useState } from 'react'
 import Filters from './Filters/Filters';
-
+import Sorter from 'pages/Sorter';
 
 export default function Exercises() {
     const [search, setSearch] = useState("")
@@ -23,7 +23,8 @@ export default function Exercises() {
                     <SearchBar search={search} setSearch={setSearch}/>
                     <div className={styles.muscleGroup__exercise}>
                         <Filters filter={filter} setFilter={setFilter} />
-                    </div>
+                        <Sorter />
+                   </div>
                 </section>
         </main>
     )

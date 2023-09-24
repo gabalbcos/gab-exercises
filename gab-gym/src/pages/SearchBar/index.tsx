@@ -13,6 +13,7 @@ export default function SearchBar({ search, setSearch }: SearchBarProps) {
         <div className={styles.searchBar}>
             <input 
                 value={search}
+                placeholder='Search'
                 onChange={(event) => setSearch(event.target.value)}/>
             <CgSearch size={20}
             color="#4C4D4F" />
