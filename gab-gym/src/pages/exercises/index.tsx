@@ -6,8 +6,9 @@ import Filters from './Filters/Filters';
 import Sorter from 'pages/Sorter';
 
 export default function Exercises() {
-    const [search, setSearch] = useState("")
-    const[filter, setFilter] = useState<number | null>(null)
+    const [search, setSearch] = useState("");
+    const[filter, setFilter] = useState<number | null>(null);
+    const [sorter, setSorter] = useState("");
     return(
         <main>
             <nav className={styles.menu}>
@@ -23,7 +24,7 @@ export default function Exercises() {
                     <SearchBar search={search} setSearch={setSearch}/>
                     <div className={styles.muscleGroup__exercise}>
                         <Filters filter={filter} setFilter={setFilter} />
-                        <Sorter />
+                        <Sorter sorter={sorter} setSorter={setSorter}/>
                    </div>
                 </section>
         </main>
