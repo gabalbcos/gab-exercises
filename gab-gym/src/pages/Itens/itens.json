@@ -1,0 +1,29 @@
+[
+    {
+        "title": ,
+        "description": ,
+        "photo": ,
+        "primaryMuscle": ,
+        "difficulty": ,
+        "reps": ,
+        "category": {
+            "id": ,
+            "label":
+        }
+    },
+    {
+        "title": "Dumbbell lateral raise",
+        "description": "Keeping your elbows slightly bent, exhale as you raise both upper arms out to the sides until your elbows are level with your shoulders.
+        Hold for a count of two.
+        Inhale as you lower the dumbbells to the starting position.
+        Repeat for the recommended number of repetitions.",
+        "photo": ,
+        "primaryMuscle": "Lateral Deltoid",
+        "difficulty": "low",
+        "reps": "4x8",
+        "category": {
+            "id": 1,
+            "label": "Arms"
+        }
+    },
+]
