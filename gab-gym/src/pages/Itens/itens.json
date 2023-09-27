@@ -14,8 +14,8 @@
     {
         "title": "Dumbbell lateral raise",
         "description": "Keeping your elbows slightly bent, exhale as you raise both upper arms out to the sides until your elbows are level with your shoulders. Hold for a count of two. Inhale as you lower the dumbbells to the starting position. Repeat for the recommended number of repetitions.",
-        "photo": "'assets/arms/shoulder/dumbbell-lateral-raise-resized.png",
-        "primaryMuscle": "Lateral Deltoid",
+        "photo": "assets/arms/shoulder/dumbbell-lateral-raise-resized.png",
+        "primaryMuscle": "Deltoid",
         "difficulty": "low",
         "reps": "4x8",
         "category": {
@@ -26,8 +26,8 @@
     {
         "title": "Reverse dumbbell fly",
         "description": "Keeping your elbows slightly bent, raise both arms out to the sides until the dumbbells are level with the height of your shoulders. Don’t forget to exhale. Hold for a count of two. Inhale as you lower the dumbbells to the starting position in a controlled manner. Repeat for the desired number of repetitions.",
-        "photo": "'assets/arms/shoulder/Dumbbell-Rear-Lateral-Raise-resized.jpg",
-        "primaryMuscle": "Posterior Deltoid",
+        "photo": "assets/arms/shoulder/Dumbbell-Rear-Lateral-Raise-resized.jpg",
+        "primaryMuscle": "Deltoid",
         "difficulty": "medium",
         "reps": "4x8",
         "category": {
@@ -38,8 +38,8 @@
     {
         "title": "Cable one-arm lateral raise",
         "description": "Keeping your elbow slightly bent, exhale as you raise the stirrup away from the pulley until your elbow is shoulder height. Hold for a count of two. Inhale as you lower the stirrup to the starting position in a controlled manner. Repeat for the desired number of repetitions. Repeat the exercise with your opposite arm.",
-        "photo": "'assets/arms/shoulder/cable-one-arm-lateral-raise-resized.jpg",
-        "primaryMuscle": "Lateral Deltoid",
+        "photo": "assets/arms/shoulder/cable-one-arm-lateral-raise-resized.jpg",
+        "primaryMuscle": "Deltoid",
         "difficulty": "low",
         "reps": "4x8",
         "category": {
@@ -50,9 +50,57 @@
     {
         "title": "Arnold press",
         "description": "Keeping your elbows slightly bent, exhale as you raise both upper arms out to the sides until your elbows are level with your shoulders. Hold for a count of two. Inhale as you lower the dumbbells to the starting position. Repeat for the recommended number of repetitions.",
-        "photo": "'assets/arms/shoulder/Arnold-press-resized.jpg",
-        "primaryMuscle": "Anterior Deltoid",
+        "photo": "assets/arms/shoulder/Arnold-press-resized.jpg",
+        "primaryMuscle": "Deltoid",
         "difficulty": "high",
+        "reps": "4x8",
+        "category": {
+            "id": 1,
+            "label": "Arms"
+        }
+    },
+    {
+        "title": "EZ bar curl",
+        "description": "Keeping your upper arms fixed by your sides, exhale as you curl the EZ-curl bar up toward your shoulders. At the top of the movement, hold for a count of two and squeeze your biceps. Inhale as you lower the EZ-curl bar to the starting position in a controlled manner. Repeat.",
+        "photo": "assets/arms/biceps/EZ-Barbell-Curl-resized.jpg",
+        "primaryMuscle": "Biceps",
+        "difficulty": "medium",
+        "reps": "4x8",
+        "category": {
+            "id": 1,
+            "label": "Arms"
+        }
+    },
+    {
+        "title": "Dumbbell concentration curl",
+        "description": "Exhale as you curl the dumbbell up towards your shoulder. At the top of the movement, hold the contracted position and squeeze your biceps for a count of two. Inhale as you lower the dumbbell to the starting position. Repeat for the desired number of repetitions. Repeat with your left arm.",
+        "photo": "assets/arms/biceps/Dumbbell-Concentration-Curl-resized.png",
+        "primaryMuscle": "Biceps",
+        "difficulty": "medium",
+        "reps": "4x8",
+        "category": {
+            "id": 1,
+            "label": "Arms"
+        }
+    },
+    {
+        "title": "Overhead cable curl",
+        "description": "Keeping your upper arms still, exhale as you flex your elbows and curl the stirrups toward your ears. Hold the contracted position and squeeze your biceps. Inhale as you return the stirrups to the starting position. Repeat.",
+        "photo": "assets/arms/biceps/overhead-cable-biceps-curl-resized.png",
+        "primaryMuscle": "Biceps",
+        "difficulty": "medium",
+        "reps": "4x8",
+        "category": {
+            "id": 1,
+            "label": "Arms"
+        }
+    },
+    {
+        "title": "Dumbbell curl",
+        "description": "Exhale as you slowly curl one dumbbell up towards your shoulder. As the dumbbell rises, supinate your forearm gradually so that your palm faces your shoulder by the top of the curl. Once your elbow is fully flexed, allow your elbow to move forward a little (shoulder flexion), just until your forearm is vertical. Hold for a count of two and squeeze your biceps. Inhale as you slowly reverse the movement at half the speed and return the dumbbell to the starting position. Repeat the same action with the opposite arm, and then alternate repetitions.",
+        "photo": "assets/arms/biceps/Dumbbell-Alternate-Biceps-Curl-resized.jpg",
+        "primaryMuscle": "Biceps",
+        "difficulty": "medium",
         "reps": "4x8",
         "category": {
             "id": 1,
