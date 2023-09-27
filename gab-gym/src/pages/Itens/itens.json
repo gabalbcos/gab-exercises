@@ -107,4 +107,29 @@
             "label": "Arms"
         }
     },
+    {
+        "title": "Smith machine squat" ,
+        "description": "Keeping your torso upright, inhale as you squat down by simultaneously pushing your hips backward and bending your knees forward. Descend until your thighs are at least parallel with the floor. Exhale as you stand and push the bar back up to the starting position, driving through your heels. Repeat for the prescribed number of repetitions. Once finished, rotate the bar to latch it back on to the rails.",
+        "photo": "asset/legs/Smith-machine-squat-resized.jpg",
+        "primaryMuscle": "Legs",
+        "difficulty": "high",
+        "reps": "4x8",
+        "category": {
+            "id": 2,
+            "label": "Legs"
+        }
+    },
+    {
+        "title": "Machine chest press",
+        "description": "Exhale as you press the handles out until your arms are fully extended. Inhale as you reverse the motion until you feel a mild stretch in your chest. Repeat.",
+        "photo": "assets/chest/machine-chest-press-resized.jpg",
+        "primaryMuscle": "Chest" ,
+        "difficulty": "high",,
+        "reps": "4x8" ,
+        "category": {
+            "id": 3,
+            "label": "Chest"
+        }
+    }
+
 ]
