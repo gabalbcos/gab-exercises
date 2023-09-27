@@ -13,13 +13,46 @@
     },
     {
         "title": "Dumbbell lateral raise",
-        "description": "Keeping your elbows slightly bent, exhale as you raise both upper arms out to the sides until your elbows are level with your shoulders.
-        Hold for a count of two.
-        Inhale as you lower the dumbbells to the starting position.
-        Repeat for the recommended number of repetitions.",
-        "photo": ,
+        "description": "Keeping your elbows slightly bent, exhale as you raise both upper arms out to the sides until your elbows are level with your shoulders. Hold for a count of two. Inhale as you lower the dumbbells to the starting position. Repeat for the recommended number of repetitions.",
+        "photo": "'assets/arms/shoulder/dumbbell-lateral-raise-resized.png",
         "primaryMuscle": "Lateral Deltoid",
         "difficulty": "low",
+        "reps": "4x8",
+        "category": {
+            "id": 1,
+            "label": "Arms"
+        }
+    },
+    {
+        "title": "Reverse dumbbell fly",
+        "description": "Keeping your elbows slightly bent, raise both arms out to the sides until the dumbbells are level with the height of your shoulders. Don’t forget to exhale. Hold for a count of two. Inhale as you lower the dumbbells to the starting position in a controlled manner. Repeat for the desired number of repetitions.",
+        "photo": "'assets/arms/shoulder/Dumbbell-Rear-Lateral-Raise-resized.jpg",
+        "primaryMuscle": "Posterior Deltoid",
+        "difficulty": "medium",
+        "reps": "4x8",
+        "category": {
+            "id": 1,
+            "label": "Arms"
+        }
+    },
+    {
+        "title": "Cable one-arm lateral raise",
+        "description": "Keeping your elbow slightly bent, exhale as you raise the stirrup away from the pulley until your elbow is shoulder height. Hold for a count of two. Inhale as you lower the stirrup to the starting position in a controlled manner. Repeat for the desired number of repetitions. Repeat the exercise with your opposite arm.",
+        "photo": "'assets/arms/shoulder/cable-one-arm-lateral-raise-resized.jpg",
+        "primaryMuscle": "Lateral Deltoid",
+        "difficulty": "low",
+        "reps": "4x8",
+        "category": {
+            "id": 1,
+            "label": "Arms"
+        }
+    },
+    {
+        "title": "Arnold press",
+        "description": "Keeping your elbows slightly bent, exhale as you raise both upper arms out to the sides until your elbows are level with your shoulders. Hold for a count of two. Inhale as you lower the dumbbells to the starting position. Repeat for the recommended number of repetitions.",
+        "photo": "'assets/arms/shoulder/Arnold-press-resized.jpg",
+        "primaryMuscle": "Anterior Deltoid",
+        "difficulty": "high",
         "reps": "4x8",
         "category": {
             "id": 1,
