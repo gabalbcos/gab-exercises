@@ -4,6 +4,7 @@ import SearchBar from 'pages/SearchBar';
 import { useState } from 'react'
 import Filters from './Filters/Filters';
 import Sorter from 'pages/Sorter';
+import Itens from 'pages/Itens';
 
 export default function Exercises() {
     const [search, setSearch] = useState("");
@@ -26,6 +27,7 @@ export default function Exercises() {
                         <Filters filter={filter} setFilter={setFilter} />
                         <Sorter sorter={sorter} setSorter={setSorter}/>
                    </div>
+                   <Itens/>
                 </section>
         </main>
     )

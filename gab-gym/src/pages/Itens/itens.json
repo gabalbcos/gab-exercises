@@ -1,17 +1,5 @@
 [
     {
-        "title": ,
-        "description": ,
-        "photo": ,
-        "primaryMuscle": ,
-        "difficulty": ,
-        "reps": ,
-        "category": {
-            "id": ,
-            "label":
-        }
-    },
-    {
         "title": "Dumbbell lateral raise",
         "description": "Keeping your elbows slightly bent, exhale as you raise both upper arms out to the sides until your elbows are level with your shoulders. Hold for a count of two. Inhale as you lower the dumbbells to the starting position. Repeat for the recommended number of repetitions.",
         "photo": "assets/arms/shoulder/dumbbell-lateral-raise-resized.png",
@@ -124,7 +112,7 @@
         "description": "Exhale as you press the handles out until your arms are fully extended. Inhale as you reverse the motion until you feel a mild stretch in your chest. Repeat.",
         "photo": "assets/chest/machine-chest-press-resized.jpg",
         "primaryMuscle": "Chest" ,
-        "difficulty": "high",,
+        "difficulty": "high",
         "reps": "4x8" ,
         "category": {
             "id": 3,
