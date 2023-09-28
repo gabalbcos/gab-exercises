@@ -1,10 +1,11 @@
 import styles from './Item.module.scss'
 import exercises from '../itens.json'
+import classNames from 'classnames';
 
 type Props = typeof exercises[0];
 
 export default function Item(props: Props) {
-    const { title, description, primaryMuscle, category, difficulty, photo, reps} = props;
+    const { title, description, primaryMuscle, category, difficulty, photo, reps } = props;
     return(
         <div className={styles.item}>
             <div className={styles.item__image}>
@@ -16,7 +17,11 @@ export default function Item(props: Props) {
                     <p>{description}</p>
                 </div>
                 <div className={styles.item__tags}>
-                    <div className={styles.item__type}>
+                    <div className={classNames({
+                        [styles.item__type]: true,
+                        [styles[`item__type__${category.label.toLowerCase()}`]]: true
+                    })}
+                    >
                         {category.label}
                     </div>
                     <div className={styles.item__muscleGroup}>

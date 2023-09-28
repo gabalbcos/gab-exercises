@@ -23,11 +23,15 @@ export default function Exercises() {
                 <section className={styles.muscleGroup}>
                     <h3 className={styles.muscleGroup__title}>Muscle Groups</h3>
                     <SearchBar search={search} setSearch={setSearch}/>
-                    <div className={styles.muscleGroup__exercise}>
+                    <div className={styles.muscleGroup__filters}>
                         <Filters filter={filter} setFilter={setFilter} />
                         <Sorter sorter={sorter} setSorter={setSorter}/>
                    </div>
-                   <Itens/>
+                   <br></br>
+                   <br></br>
+                   <br></br>
+
+                   <Itens search={search} filter={filter} sorter={sorter}/>
                 </section>
         </main>
     )
