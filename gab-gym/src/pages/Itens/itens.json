@@ -5,7 +5,7 @@
         "photo": "assets/arms/shoulder/dumbbell-lateral-raise-resized.png",
         "primaryMuscle": "Deltoid",
         "difficulty": "low",
-        "reps": "4x8",
+        "reps": "9",
         "id": 1,
         "category": {
             "id": 1,
@@ -18,7 +18,7 @@
         "photo": "assets/arms/shoulder/Dumbbell-Rear-Lateral-Raise-resized.jpg",
         "primaryMuscle": "Deltoid",
         "difficulty": "medium",
-        "reps": "4x8",
+        "reps": "7",
         "id": 2,
         "category": {
             "id": 1,
@@ -31,7 +31,7 @@
         "photo": "assets/arms/shoulder/cable-one-arm-lateral-raise-resized.jpg",
         "primaryMuscle": "Deltoid",
         "difficulty": "low",
-        "reps": "4x8",
+        "reps": "5",
         "id": 3,
         "category": {
             "id": 1,
@@ -44,7 +44,7 @@
         "photo": "assets/arms/shoulder/Arnold-press-resized.jpg",
         "primaryMuscle": "Deltoid",
         "difficulty": "high",
-        "reps": "4x8",
+        "reps": "1",
         "id": 4,
         "category": {
             "id": 1,
@@ -57,7 +57,7 @@
         "photo": "assets/arms/biceps/EZ-Barbell-Curl-resized.jpg",
         "primaryMuscle": "Biceps",
         "difficulty": "medium",
-        "reps": "4x8",
+        "reps": "2",
         "id": 5,
         "category": {
             "id": 1,
@@ -70,7 +70,7 @@
         "photo": "assets/arms/biceps/Dumbbell-Concentration-Curl-resized.png",
         "primaryMuscle": "Biceps",
         "difficulty": "medium",
-        "reps": "4x8",
+        "reps": "3",
         "id": 6,
         "category": {
             "id": 1,
@@ -83,7 +83,7 @@
         "photo": "assets/arms/biceps/overhead-cable-biceps-curl-resized.png",
         "primaryMuscle": "Biceps",
         "difficulty": "medium",
-        "reps": "4x8",
+        "reps": "7",
         "id": 7,
         "category": {
             "id": 1,
@@ -96,7 +96,7 @@
         "photo": "assets/arms/biceps/Dumbbell-Alternate-Biceps-Curl-resized.jpg",
         "primaryMuscle": "Biceps",
         "difficulty": "medium",
-        "reps": "4x8",
+        "reps": "4",
         "id": 8,
         "category": {
             "id": 1,
@@ -109,7 +109,7 @@
         "photo": "asset/legs/Smith-machine-squat-resized.jpg",
         "primaryMuscle": "Legs",
         "difficulty": "high",
-        "reps": "4x8",
+        "reps": "6",
         "id": 9,
         "category": {
             "id": 2,
