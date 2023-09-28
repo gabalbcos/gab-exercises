@@ -10,7 +10,7 @@ $core: #80aa40;
   display: flex;
   flex-wrap: wrap;
   width: 90%;
-  &__imagem {
+  &__image {
     min-width: 240px;
     @media (max-width: $desktop_xsm) {
       width: 100%;
@@ -86,6 +86,7 @@ $core: #80aa40;
       background-color: $core;
     }
   }
+  &__muscleGroup,
   &__difficulty,
   &__value {
     align-items: center;
