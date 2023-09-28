@@ -1,11 +1,12 @@
 import styles from './Itens.module.scss';
 import exercises from './itens.json';
+import Item from  './Item/'
 
 export default function Itens() {
     return (
-        <div>
+        <div className={styles.itens}>
             {exercises.map( item => (
-                <div>{item.title}</div>
+                <Item key={item.id}/>
             ))}
         </div>
     );
